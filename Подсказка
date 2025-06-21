@@ -1,0 +1,6 @@
+Добавь эти папки как написано тут
+
+static --> styles --> style.css
+
+Добавь это в HTML файл свой, чтобы css работал 
+<link rel="stylesheet" href="static/styles/style.css">
