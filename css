@@ -1,0 +1,27 @@
+.ping {
+    background: linear-gradient(to top right, purple , crimson  , orangered , gold );
+    width: 300px;
+    height: 350px;
+
+}
+
+h1 {
+    background: linear-gradient(to top right, purple , crimson  , orangered , gold );
+    width: 230px;
+    height: 40px;
+    border-radius: 10px 40px ;
+    color:#ffffff
+}
+
+h2 {
+   color:#ff2980
+}
+
+h3 {
+    background: linear-gradient(to top right, skyblue -50%, purple 150% );
+    width: 230px;
+    height: 25px;
+    border-radius: 40px ;
+    color: purple
+}
+
